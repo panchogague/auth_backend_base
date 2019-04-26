@@ -1,0 +1,14 @@
+C:\Users\Javier\Source\repos\Auth\Auth\bin\Debug\netcoreapp2.1\Auth.deps.json
+C:\Users\Javier\Source\repos\Auth\Auth\bin\Debug\netcoreapp2.1\Auth.runtimeconfig.json
+C:\Users\Javier\Source\repos\Auth\Auth\bin\Debug\netcoreapp2.1\Auth.runtimeconfig.dev.json
+C:\Users\Javier\Source\repos\Auth\Auth\bin\Debug\netcoreapp2.1\Auth.dll
+C:\Users\Javier\Source\repos\Auth\Auth\bin\Debug\netcoreapp2.1\Auth.pdb
+C:\Users\Javier\Source\repos\Auth\Auth\obj\Debug\netcoreapp2.1\Auth.csprojAssemblyReference.cache
+C:\Users\Javier\Source\repos\Auth\Auth\obj\Debug\netcoreapp2.1\Auth.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Source\repos\Auth\Auth\obj\Debug\netcoreapp2.1\Auth.RazorAssemblyInfo.cache
+C:\Users\Javier\Source\repos\Auth\Auth\obj\Debug\netcoreapp2.1\Auth.RazorAssemblyInfo.cs
+C:\Users\Javier\Source\repos\Auth\Auth\obj\Debug\netcoreapp2.1\Auth.AssemblyInfoInputs.cache
+C:\Users\Javier\Source\repos\Auth\Auth\obj\Debug\netcoreapp2.1\Auth.AssemblyInfo.cs
+C:\Users\Javier\Source\repos\Auth\Auth\obj\Debug\netcoreapp2.1\Auth.RazorTargetAssemblyInfo.cache
+C:\Users\Javier\Source\repos\Auth\Auth\obj\Debug\netcoreapp2.1\Auth.dll
+C:\Users\Javier\Source\repos\Auth\Auth\obj\Debug\netcoreapp2.1\Auth.pdb
